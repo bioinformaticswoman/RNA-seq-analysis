@@ -90,6 +90,8 @@ Volcano plot showing significance and fold change
 <img width="2400" height="2700" alt="top_30_gene_heatmap" src="https://github.com/user-attachments/assets/3d57c405-0633-4205-beb6-7b767019ce7d" />
 Heatmap of the top 30 differentially expressed genes
 
+The PCA plot showed clear separation between mock and SARS-CoV-2 infected cornea samples along PC1, which explained 64% of the total variance. This indicates that infection status is a major source of variation in the dataset. One mock sample showed additional separation along PC2, suggesting some sample-level variability. However, the heatmap of the top 30 differentially expressed genes showed clear clustering by condition and distinct expression patterns between mock and infected samples. Together, these plots support the reliability of the differential expression results.
+
 ## Visualizations
 The project generates the following visualizations:
 
