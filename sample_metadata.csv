@@ -1,0 +1,7 @@
+sample_id,geo_accession,title,tissue,condition
+GSM4996084,GSM4996084,Cornea_mock_1,cornea,mock
+GSM4996085,GSM4996085,Cornea_mock_2,cornea,mock
+GSM4996086,GSM4996086,Cornea_mock_3,cornea,mock
+GSM4996087,GSM4996087,Cornea_CoV2_1,cornea,SARS_CoV_2
+GSM4996088,GSM4996088,Cornea_CoV2_2,cornea,SARS_CoV_2
+GSM4996089,GSM4996089,Cornea_CoV2_3,cornea,SARS_CoV_2
